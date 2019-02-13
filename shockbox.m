@@ -1,4 +1,3 @@
-
 %% Enter the path to the excel file here:
 filename = 'timestamps.xlsx';
 % The first column should be the timestamp (s), and the second column should be duration (s).
